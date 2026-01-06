@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon auth.js",
+    "start": "nodemon auth.js",
     "build": "npx prisma generate"
   },
   "keywords": [],
